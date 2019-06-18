@@ -37,3 +37,16 @@ You can also embed plots, for example:
 ![](Learn_RMarkdown_files/figure-html/pressure-1.png)<!-- -->
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+```r
+## insert your brilliant WORKING code here
+a <- 2^6
+b <- 3
+c <- a*b
+print(c)
+```
+
+```
+## [1] 192
+```
+
