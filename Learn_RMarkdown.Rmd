@@ -2,7 +2,9 @@
 title: "Learn RMarkdown"
 author: "Long"
 date: "6/18/2019"
-output: html_document
+output: github_document
+  html_document: 
+    keep_md: yes
 ---
 
 ```{r setup, include=FALSE}
